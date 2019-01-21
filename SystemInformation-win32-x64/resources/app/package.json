@@ -1,0 +1,15 @@
+{
+    "name": "SystemInformation",
+    "version": "0.0.1",
+    "main": "main.js",
+    "dependencies": {
+        "cpu-stat": "^2.0.1",
+        "electron-packager": "^13.0.0",
+        "os-utils": "0.0.14",
+        "public-ip": "^2.4.0",
+        "systeminformation": "^3.51.4"
+    },
+    "devDependencies": {
+        
+    }
+}
